@@ -1,6 +1,15 @@
 
-# Bootleg_Walkers
-Bootleg Walkers mod for Cataclysm: Dark Days Ahead
+# Bootleg_Walkers_Revived
+A fixed release of the original Bootleg Walkers mod for Cataclysm: Dark Days Ahead. I do not own this mod nor am I the original creator. All credit goes to the mod author found here: https://github.com/91247686
+
+
+# Mod Fix
+This version fixes the mod to be compatible and run with the most recent builds. The aim was to be as faithful to the original mod as possible, but some changes needed to be made for functionality and consistency purposes. 
+These changes include:
+* The control laptop, and the recipe to make it, was added to the mod.
+* The ability for chicken walkers and super walkers to spawn was added in.
+* Walker recipes no longer allow for a wide range of guns for creation. The gun recieved from deconstruction of the broken walker is now the same needed to create the walker. This change is to prevent unwanted loss of guns through "gun alchemy".
+* The Fusion Walker now uses the PPA-5 in creation and deconstruction and gained EMP capibilities to reflect this.
 
 
 # Features:
@@ -49,3 +58,4 @@ Bootleg Walkers mod for Cataclysm: Dark Days Ahead
 * - Add "Bootleg_Walkers" to your Cataclysm\save\[your world]\mods.json file, ensuring that every entry BUT the last has a comma ( , ) at the end.
 
 Created by Feasts Upon Stars/Aggregate, for Cataclysm: Dark Days Ahead.
+Maintained by TouchMySoapstone

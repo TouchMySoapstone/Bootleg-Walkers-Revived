@@ -1,0 +1,10 @@
+[
+  {
+    "type": "monstergroup",
+    "name": "GROUP_MIL_STRONG",
+    "monsters": [
+      { "monster": "mon_chickenbot", "weight": 5, "cost_multiplier": 0 },
+      { "monster": "mon_superbot", "weight": 1, "cost_multiplier": 0 } 
+    ]
+  }
+]
