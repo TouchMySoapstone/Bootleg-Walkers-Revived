@@ -1,49 +1,67 @@
 [
   {
-    "type" : "item_group",
-    "id" : "mil_hw",
-    "items": [
-      [ "chickenbot_packed", 2 ]
-    ]
+    "type": "item_group",
+    "id": "mil_hw",
+    "copy-from": "mil_hw",
+    "extend": {
+      "items": [
+        [ "chickenbot_packed", 2 ]
+      ]
+    }
   },
   {
-    "type" : "item_group",
-    "id" : "military",
-    "items": [
-      [ "chickenbot_packed", 4 ]
-    ]
+    "type": "item_group",
+    "id": "military",
+    "copy-from": "military",
+    "extend": {
+      "items": [
+        [ "chickenbot_packed", 4 ]
+      ]
+    }
   },
   {
-    "type" : "item_group",
-    "id" : "helicopter",
-    "items": [
-      [ "chickenbot_packed", 2 ]
-    ]
+    "type": "item_group",
+    "id": "helicopter",
+    "copy-from": "helicopter",
+    "extend": {
+      "items": [
+        [ "chickenbot_packed", 2 ]
+      ]
+    }
   },
   {
-    "type" : "item_group",
-    "id" : "lab_dorm",
-    "items": [
-      [ "walker_schematic", 1 ]
-    ]
+    "type": "item_group",
+    "id": "lab_dorm",
+    "copy-from": "lab_dorm",
+    "extend": {
+      "items": [
+        [ "walker_schematic", 1 ]
+      ]
+    }
   },
   {
-    "type" : "item_group",
-    "id" : "teleport",
-    "items": [
-      [ "walker_schematic", 5 ]
-    ]
+    "type": "item_group",
+    "id": "teleport",
+    "copy-from": "teleport",
+    "extend": {
+      "items": [
+        [ "walker_schematic", 5 ]
+      ]
+    }
   },
   {
-    "type" : "item_group",
-    "id" : "science",
-    "items": [
-      [ "walker_schematic", 1 ]
-    ]
+    "type": "item_group",
+    "id": "science",
+    "copy-from": "science",
+    "extend": {
+      "items": [
+        [ "walker_schematic", 1 ]
+      ]
+    }
   },
   {
-    "type" : "item_group",
-    "id" : "chickenbotnew",
+    "type": "item_group",
+    "id": "chickenbotnew",
     "items":[
       ["556", 8],
       ["steel_lump", 10],
@@ -53,8 +71,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "bootlegbot",
+    "type": "item_group",
+    "id": "bootlegbot",
     "items":[
       ["556", 12],
       ["steel_lump", 10],
@@ -63,8 +81,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "buckshotbot",
+    "type": "item_group",
+    "id": "buckshotbot",
     "items":[
       ["shot_00", 12],
       ["steel_lump", 10],
@@ -73,8 +91,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "flaregunbot",
+    "type": "item_group",
+    "id": "flaregunbot",
     "items":[
       ["signal_flare", 12],
       ["steel_lump", 10],
@@ -83,8 +101,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "unarmedbot",
+    "type": "item_group",
+    "id": "unarmedbot",
     "items":[
       ["steel_lump", 10],
       ["alloy_plate", 10],
@@ -92,8 +110,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "unarmedsuperbot",
+    "type": "item_group",
+    "id": "unarmedsuperbot",
     "items":[
       ["steel_lump", 10],
       ["alloy_plate", 20],
@@ -101,8 +119,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "superbot",
+    "type": "item_group",
+    "id": "superbot",
     "items":[
       ["50bmg", 12],
       ["steel_lump", 10],
@@ -111,8 +129,8 @@
     ]
   },
   {
-    "type" : "item_group",
-    "id" : "flamerbot",
+    "type": "item_group",
+    "id": "flamerbot",
     "items":[
       ["napalm", 12],
       ["steel_lump", 10],
